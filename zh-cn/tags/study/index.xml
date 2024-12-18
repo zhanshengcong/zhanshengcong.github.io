@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study on windWalker</title>
+    <link>http://localhost:1313/zh-cn/tags/study/</link>
+    <description>Recent content in Study on windWalker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 windWalker</copyright>
+    <atom:link href="http://localhost:1313/zh-cn/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>java1</title>
+      <link>http://localhost:1313/zh-cn/study/java/springdemo01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/study/java/springdemo01/</guid>
+      <description>eeeeeeeeeeee</description>
+      
+    </item>
+    
+    <item>
+      <title>java2</title>
+      <link>http://localhost:1313/zh-cn/study/java/springdemo02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh-cn/study/java/springdemo02/</guid>
+      <description>ffffffffffff</description>
+      
+    </item>
+    
+  </channel>
+</rss>
